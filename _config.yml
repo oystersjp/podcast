@@ -1,12 +1,8 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+  02:
+    image_url: /images/actors/02.jpg
+    name: 02
+    url: https://twitter.com/cocoeyes02
 author: 02
 description: 若手ものづくり集団「Oysters」のPodcast
 description_long: 若手ものづくり集団「Oysters」のPodcastです。所属エンジニアが、技術のことから暮らしのことまで語っていきます。
