@@ -7,10 +7,9 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: 02
+description: 若手ものづくり集団「Oysters」のPodcast
+description_long: 若手ものづくり集団「Oysters」のPodcastです。所属エンジニアが、技術のことから暮らしのことまで語っていきます。
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +19,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: oystersfm
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +28,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Oysters.fm
+url: https://oystersjp.github.io/podcast/
