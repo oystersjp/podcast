@@ -5,7 +5,7 @@ actors:
     url: https://twitter.com/cocoeyes02
 author: 02
 description: 若手ものづくり集団「Oysters」のPodcast
-description_long: 若手ものづくり集団「Oysters」のPodcastです。所属エンジニアが、技術のことから暮らしのことまで語っていきます。
+description_long: 若手ものづくり集団「Oysters」の所属エンジニアが、技術のことから暮らしのことまで語るPodcast
 exclude:
   - docker
   - docker-compose.yml
