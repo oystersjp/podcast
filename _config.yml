@@ -1,14 +1,14 @@
-actors:
+members:
   02:
-    image_url: /images/actors/02.jpg
+    image_url: /images/members/02.jpg
     name: "02"
     url: https://twitter.com/cocoeyes02
   zoe:
-    image_url: /images/actors/zoe.jpeg
+    image_url: /images/members/zoe.jpeg
     name: "zoe"
     url: https://twitter.com/for__3
   okashoi:
-    image_url: /images/actors/okashoi.png
+    image_url: /images/members/okashoi.png
     name: "okashoi"
     url: https://twitter.com/okashoi
 author: 02
