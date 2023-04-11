@@ -52,6 +52,17 @@
                 </a>
               {% endfor %}
             </div>
+            <h2>
+              編集者
+            </h2>
+            <div class="article-editors">
+              {% assign editor = site.members[page.editor.member_id] %}
+              <a href="{{ editor.url }}" class="editor" target="_blank">
+                <img src="{{ editor.image_url | prepend:site.github.url }}" alt="{{ editor.name }}" class="editor-image" width="72" height="72">
+                <br>
+                {{ editor.name }}
+              </a>
+            </div>
             {{ content }}
           </section>
           <footer class="article-footer">
