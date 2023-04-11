@@ -1,8 +1,20 @@
-actors:
+members:
   02:
-    image_url: /images/actors/02.jpg
+    image_url: /images/members/02.jpg
     name: "02"
     url: https://twitter.com/cocoeyes02
+  zoe:
+    image_url: /images/members/zoe.jpeg
+    name: "zoe"
+    url: https://twitter.com/for__3
+  okashoi:
+    image_url: /images/members/okashoi.png
+    name: "okashoi"
+    url: https://twitter.com/okashoi
+  shuzon:
+    image_url: /images/members/shuzon.jpeg
+    name: "shuzon"
+    url: https://twitter.com/ShuzoN__
 author: 02
 description: 若手ものづくり集団「Oysters」のPodcast
 description_long: 若手ものづくり集団「Oysters」の所属エンジニアが、技術のことから暮らしのことまで語るPodcast

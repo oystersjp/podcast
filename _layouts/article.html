@@ -43,14 +43,25 @@
               出演者
             </h2>
             <div class="article-actors">
-              {% for actor_id in page.actor_ids %}
-                {% assign actor = site.actors[actor_id] %}
+              {% for member_id in page.actor.member_ids %}
+                {% assign actor = site.members[member_id] %}
                 <a href="{{ actor.url }}" class="actor" target="_blank">
                   <img src="{{ actor.image_url | prepend:site.github.url }}" alt="{{ actor.name }}" class="actor-image" width="72" height="72">
                   <br>
                   {{ actor.name }}
                 </a>
               {% endfor %}
+            </div>
+            <h2>
+              編集者
+            </h2>
+            <div class="article-editors">
+              {% assign editor = site.members[page.editor.member_id] %}
+              <a href="{{ editor.url }}" class="editor" target="_blank">
+                <img src="{{ editor.image_url | prepend:site.github.url }}" alt="{{ editor.name }}" class="editor-image" width="72" height="72">
+                <br>
+                {{ editor.name }}
+              </a>
             </div>
             {{ content }}
           </section>
