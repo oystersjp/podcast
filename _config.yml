@@ -4,11 +4,11 @@ actors:
     name: "02"
     url: https://twitter.com/cocoeyes02
   zoe:
-    image_url: /images/actors/zoe.jpg
+    image_url: /images/actors/zoe.jpeg
     name: "zoe"
     url: https://twitter.com/for__3
   okashoi:
-    image_url: /images/actors/okashoi.jpg
+    image_url: /images/actors/okashoi.png
     name: "okashoi"
     url: https://twitter.com/okashoi
 author: 02
