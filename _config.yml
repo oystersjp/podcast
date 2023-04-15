@@ -26,7 +26,8 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: G-WM91B782B2
+google_tag_manager: GTM-KH27S7S
 hashtag: oysters_podcast
 itunes_podcast_url:
 keywords: comma,separated,keywords
