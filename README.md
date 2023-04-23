@@ -10,7 +10,7 @@ Oysters Podcast は、若手ものづくり集団「Oysters」のPodcastです�
     - audio_file_size: 音声ファイルサイズ
     - date: 投稿日。過去の日付じゃないと公開されないので注意
     - description: 詳細説明
-    - duration: "00:00" でOK
+    - duration: 音声ファイルの時間を入力
     - layout: article でOK
     - title: {任意の数字}. タイトル名 を書こう
 - audio/{任意の数字}.mp3 に録音ファイルを置こう
