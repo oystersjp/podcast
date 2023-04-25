@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-sitemap
 members:
   02:
     image_url: /images/members/02.jpg
